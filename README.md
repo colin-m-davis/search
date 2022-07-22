@@ -1,6 +1,6 @@
 # Search UCSB courses
 
-first arg: Quarter
+first arg: Quarter (YYYYQ)
 
 second arg: Enroll Code
 
