@@ -4,7 +4,7 @@ first arg: Quarter
 second arg: Enroll Code
 
 ex:
-`$ cargo run 20224 32235
+`$ cargo run 20224 32235`
 
 result:
 ```MATH    111A
